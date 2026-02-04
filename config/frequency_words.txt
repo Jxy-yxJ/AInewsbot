@@ -177,3 +177,25 @@
 
 # 产业政策
 生产力
+
+人工智能
+大模型
+gpt
+GPT
+
+aigc
+AIGC
+
+Google
+Gemini
+
+openai
+openAI
+Openai
+OpenAi
+OpenAI
+
+Anthropic
+anthropic
+Claude
+claude
